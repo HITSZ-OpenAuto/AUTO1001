@@ -20,7 +20,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&color=F71717&center=true&multiline=true&repeat=false&random=false&width=435&height=100&lines=%E6%AC%A2+%E8%BF%8E+%E6%9D%A5+%E5%88%B0;AUTO1001;%E8%87%AA+%E5%8A%A8+%E5%8C%96+%E8%AE%A4+%E8%AF%86+%E4%B8%8E+%E5%AE%9E+%E8%B7%B5" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&color=F71717&center=true&multiline=true&repeat=false&random=false&width=435&height=100&lines=%E6%AC%A2+%E8%BF%8E+%E6%9D%A5+%E5%88%B0;AUTO1001;自 动 化 认 知 与 实 践" alt="Typing SVG: Welcome"/>
   </a>
 </div>
 
