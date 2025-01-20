@@ -40,20 +40,18 @@
 
 ## 关于考试
 
-> by [Maxwell Jay](https://github.com/MaxwellJay256)
-
 2022 级自动化专业学生参与了这门课第一次考试，笔试内容主要来自课堂教学，例如电机驱动，电阻色环识别，Arduino 编程知识。
 考试难度对于从未接触过机器人或单片机的同学来说并不是很友好，而且主要考的都是死记硬背的东西，因此在学生间的评价很差。
 
-> by [psp_dada](https://github.com/pspdada)
+> 文 / [Maxwell Jay](https://github.com/MaxwellJay256)
 
 22 年，这门课的考试主要是大背诵，包括色环电阻识别（阻值和误差的填空）；手绘整个 H 桥电机驱动电路；机械设计部分没考；而工程制图部分由于课时被压缩，考试仅出了很简单的填空题以及画图题，无需掌握复杂的画图技巧。
+
+> 文 / [psp_dada](https://github.com/pspdada)
 
 ## 课程简介
 
 ### 关于导论部分
-
-> by [Oliver Wu](https://github.com/OliverWu515)
 
 > 此为2021级内容。新的导论部分对原来内容有了较大程度的裁剪，但是仍然建议有兴趣的同学仔细阅读有关“自动化基本原理”的内容，对自动控制系统的思想、构成、实现方式有个初步认识。
 > 课件放在校内网盘。
@@ -71,9 +69,9 @@
 - 现代自动化初览（科普）
 - 自动化专业培养目标、课程体系、学术体系、发展前景
 
-### 关于机器人设计与实践的理论课
+> 文 / [Oliver Wu](https://github.com/OliverWu515)
 
-> by [Oliver Wu](https://github.com/OliverWu515)
+### 关于机器人设计与实践的理论课
 
 主要内容：
 - 电学基本知识（电路基础）
@@ -87,9 +85,9 @@
 - PID控制律作用于实际系统，每个环节的作用
 - 轮式机器人基本运动学
 
-### 关于实验
+>  文 / [Oliver Wu](https://github.com/OliverWu515)
 
-> by [Maxwell Jay](https://github.com/MaxwellJay256)
+### 关于实验
 
 > 以下内容仅代表 2022 级的情况。2022 级的自动化认识与实践被安排在大一上学期，并且是考试课。
 
@@ -123,13 +121,15 @@
 - [Chenx Dust - AutoCar](https://github.com/chenxijun/AutoCar)
 - [psp_dada - AutoCar-AUTO1001](https://github.com/pspdada/AutoCar-AUTO1001)
 
-> by [Oliver Wu](https://github.com/OliverWu515)
+> 文 / [Maxwell Jay](https://github.com/MaxwellJay256)
 
 希望同学们认真完成实验，体会由物理系统——数学模型——物理实现的路径（如，针对物理系统的特性，设计PID控制律，再结合传感器将物理信号转换成电信号，利用单片机实现数字式的增量式PID控制算法），巩固C语言编程的知识。
 希望同学们在实验过程中养成良好的习惯，爱护实验器材，维护好实验室的环境。
 
-> by [psp_dada](https://github.com/pspdada)
+>  文 / [Oliver Wu](https://github.com/OliverWu515)
 
 虽然部分自动化的学生对实验部分怨声载道，但从无到有搭建出一个寻迹小车确实能很大程度地提高学生的动手能力，特别是对于高中没有什么动手实践机会的同学来说，一进入大学就有这么 **重 量 级** 的实验确实是积累实践经验、提升实践技能的机会（但 23 级把这门课放在了大二下学期，就不好说了）
 
 与 Wu 说的不同的是，我们的寻迹小车使用的控制板是 Arduino Mega 2560，使用 Arduino IDE 编写代码，逻辑非常简单，只需要写一个初始化部分和一个循环部分的代码，感觉和 C 语言没有什么相关性，甚至比 Python 语法都要简单。若对嵌入式软件有浓厚的兴趣，可以进入战队学习 STM32 的使用，这个单片机更加灵活，内容也更加丰富
+
+> 文 / [psp_dada](https://github.com/pspdada)
