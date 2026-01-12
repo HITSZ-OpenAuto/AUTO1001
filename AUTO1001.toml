@@ -1,0 +1,346 @@
+# 注：原文中 "2025.6" 等不完整的日期，因不符合 YYYY-MM-DD 格式要求，date 字段留空。
+# 注：授课教师信息根据原文“分别由不同的老师先后负责讲授”进行拆分整理。
+course_name = "自动化认知与实践"
+course_code = "AUTO1001"
+notices = ""
+
+[[lecturers]]
+name = "楼云江"
+  [[lecturers.reviews]]
+  content = "负责讲授自动化专业导论部分。"
+  [lecturers.reviews.author]
+  name = ""
+  link = ""
+  date = ""
+
+[[lecturers]]
+name = "袁晗"
+  [[lecturers.reviews]]
+  content = "负责讲授工程制图部分。"
+  [lecturers.reviews.author]
+  name = ""
+  link = ""
+  date = ""
+
+[[lecturers]]
+name = "杨月"
+  [[lecturers.reviews]]
+  content = "负责讲授工程制图部分。"
+  [lecturers.reviews.author]
+  name = ""
+  link = ""
+  date = ""
+
+[[lecturers]]
+name = "黄瑞宁"
+  [[lecturers.reviews]]
+  content = "负责讲授机器人设计与实践部分。"
+  [lecturers.reviews.author]
+  name = ""
+  link = ""
+  date = ""
+
+[[lecturers]]
+name = "陈浩耀"
+  [[lecturers.reviews]]
+  content = "负责讲授机器人设计与实践部分。"
+  [lecturers.reviews.author]
+  name = ""
+  link = ""
+  date = ""
+
+[[lecturers]]
+name = "熊昊"
+  [[lecturers.reviews]]
+  content = "负责讲授机器人设计与实践部分。"
+  [lecturers.reviews.author]
+  name = ""
+  link = ""
+  date = ""
+
+[[lecturers]]
+name = "熊小刚"
+  [[lecturers.reviews]]
+  content = "负责讲授机器人设计与实践部分。"
+  [lecturers.reviews.author]
+  name = ""
+  link = ""
+  date = ""
+
+[[lecturers]]
+name = "葛亚明"
+  [[lecturers.reviews]]
+  content = "负责讲授实验课。"
+  [lecturers.reviews.author]
+  name = ""
+  link = ""
+  date = ""
+
+textbooks = []
+
+[[online_resources]]
+title = "CSDN"
+url = "https://www.csdn.net/"
+description = "如果做实验时遇到了问题，建议在此网站上查找有关资料。"
+[online_resources.author]
+name = "Maxwell Jay"
+link = "https://github.com/MaxwellJay256"
+date = ""
+
+[[online_resources]]
+title = "Arduino 官网"
+url = "https://www.arduino.cc/"
+description = "如果做实验时遇到了问题，建议在此网站上查找有关资料。"
+[online_resources.author]
+name = "Maxwell Jay"
+link = "https://github.com/MaxwellJay256"
+date = ""
+
+[[online_resources]]
+title = "Arduino Reference"
+url = "https://www.arduino.cc/reference/en/"
+description = "Arduino 编程参考网站。"
+[online_resources.author]
+name = "Oliver Wu"
+link = "https://github.com/OliverWu515"
+date = ""
+
+[[course]]
+content = "本课程开设自 2022 年，合并了过去工程制图基础、自动化专业导论、机器人设计与实践、机械设计基础 4 门课程。"
+[course.author]
+name = ""
+link = ""
+date = ""
+
+[[course]]
+content = """
+关于导论部分 (2021 级内容):
+新的导论部分对原来内容有了较大程度的裁剪，但是仍然建议有兴趣的同学仔细阅读有关“自动化基本原理”的内容，对自动控制系统的思想、构成、实现方式有个初步认识。课件放在校内网盘。
+主要内容：
+- 自动化的概念与发展简史
+- 自动化基本原理（这部分原来由吴爱国教授负责讲授），包括：
+  - 两类自动控制：开环与闭环
+  - 自动控制的定性描述（方框图等）与定量描述（数学模型，如传递函数）
+    - 建立控制对象的数学模型是自动化专业的核心知识
+  - 自动控制系统的基本要求——稳、快、准，及描述方式
+  - 自动控制系统的控制方式（前馈、反馈、串级、多回路……）
+  - PID 控制律，PID 各环节的作用
+- 反馈的重要性，关注**不确定性**等概念，自动化与控制的关系
+- 现代自动化初览（科普）
+- 自动化专业培养目标、课程体系、学术体系、发展前景
+"""
+[course.author]
+name = "Oliver Wu"
+link = "https://github.com/OliverWu515"
+date = ""
+
+[[course]]
+content = """
+关于导论部分 (2023 级内容):
+删减后的导论部分授课内容如下。23 级由于和《系统与控制》同时授课，因此 Oliver Wu 所说的对自动控制系统的思想、构成、实现方式的认识可以交给专业课完成。
+- 自动化的概念和发展简史
+- 自动化基本原理
+  - 开环和闭环控制
+  - 自动控制系统的基本要求（快准稳）
+  - 自动控制系统的控制方式（前馈、反馈、串级、多回路）
+- 自动化专业的培养目标、课程体系、学术体系、发展前景
+"""
+[course.author]
+name = "Gaster"
+link = "https://github.com/WDGaster703"
+date = ""
+
+[[course]]
+content = """
+关于工程制图和机械设计原理:
+工程制图主要内容：
+- 制图的基本知识
+- 点线面体的投影
+- 组合体
+- 机件的表达
+- Solidworks 的使用
+
+机械设计原理主要内容：
+- 机构的组成，机构自由度计算（重点）
+- 平面连杆结构，有曲柄条件，压力角，死点位置
+- 齿轮机构及渐开线齿轮相关计算
+"""
+[course.author]
+name = "Gaster"
+link = "https://github.com/WDGaster703"
+date = ""
+
+[[course]]
+content = """
+关于机器人设计与实践的理论课:
+主要内容：
+- 电学基本知识（电路基础）
+- 直流电机驱动基本知识（重点关注 H 桥）
+- 实验中会用到的各种模块（如超声波传感模块等）的用法
+- Arduino 编程入门
+  - 基本 I/O（Input 输入、Output 输出）、串口
+  - 延时函数、中断（采集编码器信号等）
+  - 其他外围设备编程
+- PID 控制律作用于实际系统，每个环节的作用
+- 轮式机器人基本运动学
+"""
+[course.author]
+name = "Oliver Wu"
+link = "https://github.com/OliverWu515"
+date = ""
+
+[[course]]
+content = """
+关于实验 (2022 级情况):
+前期的实验课比较简单，是使用电子元件和 Arduino 开发板制作一些简单的项目，可以参考课件文件夹中的实验指导书提前了解。
+实验的打分由老师或者助教完成，就是看实际的运行效果，要求并不非常严格。完成实验课上的附加题可获得额外加分。
+"""
+[course.author]
+name = "Maxwell Jay"
+link = "https://github.com/MaxwellJay256"
+date = ""
+
+[[course]]
+content = """
+关于实验 (2023 级情况，2025 年春):
+实验部分基本参考指导书就可以顺利完成，如果遇到问题，课上老师不太会给解答，需要自己解决。给分较轻松，完成实验即可。
+实验不太愉快的点在于实验要求往往滞后发布，甚至在实验后才说明实验报告要求，部分实验要求反复更改，导致同学们无法及时获得实验要求正确进行实验。
+2025 年春，实验要求上交 4 个实验报告，分别是：
+- 报告 1：电机驱动电路的调试
+  - 要求手动画出电路接线原理图，给定两组不同的 PWM 的占空比，记录 74LS06 和 7407 的输出波形；测量 2104 的 HO 与 VS 之间的电压值，测量 LO 与 GND 之间的电压值，分析该电压值下 MOS 管的导通顺序和电机的转动方向；测量并记录 2104 的 HO、LO 引脚的波形。需要分析电路调试过程中遇到的问题和解决方法。
+- 报告 2：Arduino 实验：舵机遥感控制、编码器数据读取、超声波测距
+  - 通过监视窗自行记录数据并分析数据结果。
+- 报告 3：电机调速
+  - 记录双电机调速的波形，图像需要包括两个电机的调速波形和零值、设定值对应的直线共四条曲线。
+- 报告 4：机器人小车巡线控制
+  - 以设计流程框图的形式展现小车巡线设计思路，即如何寻找到跑道上的黑线；两个电机如何实现的同速控制；如何实现左、右转弯；调试中遇到的问题分析。
+"""
+[course.author]
+name = "Gaster"
+link = "https://github.com/WDGaster703"
+date = ""
+
+[[course]]
+content = """
+关于后期实验 (小车):
+后期老师会把实验室开放给学生，自行使用已有的零件搭建一辆能够完成以下任务的小车：
+- 使用红外线传感器巡线 (做到执行、转弯、直角转弯、走圆弧线等，不能冲出赛道)
+- 使用机械臂抓放物体 (在起点抓起物体在终点平稳放下，中途不能掉落)
+- 使用超声波避障 (22 级的避障功能是单独考核)
+小车会在期末进行考核，根据完成任务的情况打分。
+"""
+[course.author]
+name = "Maxwell Jay"
+link = "https://github.com/MaxwellJay256"
+date = ""
+
+[[course]]
+content = """
+虽然部分自动化的学生对实验部分怨声载道，但从无到有搭建出一个寻迹小车确实能很大程度地提高学生的动手能力，特别是对于高中没有什么动手实践机会的同学来说，一进入大学就有这么重量级的实验确实是积累实践经验、提升实践技能的机会。
+我们寻迹小车使用的控制板是 Arduino Mega 2560，使用 Arduino IDE 编写代码，逻辑非常简单。若对嵌入式软件有浓厚的兴趣，可以进入战队学习 STM32 的使用，这个单片机更加灵活，内容也更加丰富。
+"""
+[course.author]
+name = "psp_dada"
+link = "https://github.com/pspdada"
+date = ""
+
+[[course]]
+content = """
+关于后期实验 (2025 年春):
+在 22 级的基础上，同样使用的控制板是 Arduino Mega 2560，将电机驱动由 L298N 换成了顺学长设计的 DRV7801 双驱电路板，同时各模块接口也集成到了 Arduino 拓展板上，硬件上的难度大为降低。同时整车的机械结构由亚克力板换成双层金属板，车身更为牢固。但是重新要求机械臂需要自己设计并打印，使用参考模型的需要扣分。
+
+考核要求：50s 内完成机械臂抓取物品，沿赛道巡线一圈到终点并放下物体，满分 30 分。车体完整基本分 10 分，夹爪未设计扣 3 分。巡线任务共 20 分，只完成机械臂抓取 5 分，只完成巡线 10 分，每超时 3s 扣 1 分，每重试一次扣 1 分。
+
+加分项目：单独完成避障考核 +5 分；巡线总用时在 30s 内 +5 分。
+"""
+[course.author]
+name = "Gaster"
+link = "https://github.com/WDGaster703"
+date = ""
+
+[[exam]]
+content = """
+2022 级自动化专业学生参与了这门课第一次考试，笔试内容主要来自课堂教学，例如电机驱动，电阻色环识别，Arduino 编程知识。
+考试难度对于从未接触过机器人或单片机的同学来说并不是很友好，而且主要考的都是死记硬背的东西，因此在学生间的评价很差。
+"""
+[exam.author]
+name = "Maxwell Jay"
+link = "https://github.com/MaxwellJay256"
+date = ""
+
+[[exam]]
+content = "22 年，这门课的考试主要是大背诵，包括色环电阻识别（阻值和误差的填空）；手绘整个 H 桥电机驱动电路；机械设计部分没考；而工程制图部分由于课时被压缩，考试仅出了很简单的填空题以及画图题，无需掌握复杂的画图技巧。"
+[exam.author]
+name = "psp_dada"
+link = "https://github.com/pspdada"
+date = ""
+
+[[exam]]
+content = """
+25 年，23 级的期末考试大背诵程度进一步加剧，全试卷只有一题计算自由度和计算沾边，剩下全是各种定义概念的大背诵，包括：工图某种视图的定义，机械原理中的定义，Arduino 编程，阿克曼驱动以及 H 桥驱动电路分析与设计，试卷部分考点很偏且答题量超大。试卷具体的大背诵内容参考仓库中的期末试卷回忆。
+"""
+[exam.author]
+name = "Gaster"
+link = "https://github.com/WDGaster703"
+date = ""
+
+[[advice]]
+content = "如果是用到 Arduino 的实验，建议在上课前提前准备好程序，现场敲代码会比较浪费时间。实验虽然会发实验代码，但不建议直接照抄，理解代码会对后期小车代码的编写调试大有裨益。"
+[advice.author]
+name = "Maxwell Jay"
+link = "https://github.com/MaxwellJay256"
+date = ""
+
+[[advice]]
+content = """
+希望同学们认真完成实验，体会由物理系统——数学模型——物理实现的路径（如，针对物理系统的特性，设计 PID 控制律，再结合传感器将物理信号转换成电信号，利用单片机实现数字式的增量式 PID 控制算法），巩固 C 语言编程的知识。
+希望同学们在实验过程中养成良好的习惯，爱护实验器材，维护好实验室的环境。
+"""
+[advice.author]
+name = "Oliver Wu"
+link = "https://github.com/OliverWu515"
+date = ""
+
+schedule = []
+
+[[related_links]]
+content = "https://github.com/MaxwellJay256/mega_12800"
+[related_links.author]
+name = "Maxwell Jay"
+link = "https://github.com/MaxwellJay256"
+date = ""
+
+[[related_links]]
+content = "https://github.com/longlin10086/HITSZ_lab_project"
+[related_links.author]
+name = "Maxwell Jay"
+link = "https://github.com/MaxwellJay256"
+date = ""
+
+[[related_links]]
+content = "https://github.com/chenxijun/AutoCar"
+[related_links.author]
+name = "Maxwell Jay"
+link = "https://github.com/MaxwellJay256"
+date = ""
+
+[[related_links]]
+content = "https://github.com/pspdada/AutoCar-AUTO1001"
+[related_links.author]
+name = "Maxwell Jay"
+link = "https://github.com/MaxwellJay256"
+date = ""
+
+[[related_links]]
+content = "https://github.com/WDGaster703/Harmony"
+[related_links.author]
+name = "Gaster"
+link = "https://github.com/WDGaster703"
+date = ""
+
+[[misc]]
+content = "关于小车实验部分，每一届自动化的学生都有很多故事想说 😅，但是就不在这里展开了。"
+[misc.author]
+name = "Maxwell Jay"
+link = "https://github.com/MaxwellJay256"
+date = ""
