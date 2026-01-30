@@ -1,0 +1,157 @@
+{
+  ".github/workflows/format-readme.yml": {
+    "size": 8659,
+    "time": 1769804586,
+    "hash": "00fc5d23dab4cddbe39d0b76920e2754cfee6355"
+  },
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 518,
+    "time": 1763814013,
+    "hash": "cbb7ee2cdb629a03454695e8d2190a3d70ae702c"
+  },
+  "AUTO1001.toml": {
+    "size": 13773,
+    "time": 1768251713,
+    "hash": "d53fcd77fa3856e0aa48f3ce01ab3be17976ec3a"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1713086028,
+    "hash": "56b5db0418b20e968d473fa43f3756743128deb7"
+  },
+  "README.md": {
+    "size": 12681,
+    "time": 1769800160,
+    "hash": "5051c283781c26aa1fff66e6e932ba75311226a0"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1737468639,
+    "hash": "63c3ad42335085d6f7011bf0d436aacb0d363168"
+  },
+  "assignments/22-hw-psp.pdf": {
+    "size": 301915,
+    "time": 1751078979,
+    "hash": "62b75d5cb57216b50d2b6ed259ea4cb9b16cbe97"
+  },
+  "assignments/25春作业/25春-自动化导论作业-Gaster.pdf": {
+    "size": 262080,
+    "time": 1751009327,
+    "hash": "add67e43b9a262b649f19dc57cb4cc3df10dd4be"
+  },
+  "assignments/25春作业/制图-第一次作业-Gaster.pdf": {
+    "size": 2320105,
+    "time": 1751009327,
+    "hash": "add67e43b9a262b649f19dc57cb4cc3df10dd4be"
+  },
+  "assignments/25春作业/制图-第一次作业.pdf": {
+    "size": 2385277,
+    "time": 1751009327,
+    "hash": "add67e43b9a262b649f19dc57cb4cc3df10dd4be"
+  },
+  "assignments/25春作业/制图-第二次作业-Gaster.pdf": {
+    "size": 1693957,
+    "time": 1751009327,
+    "hash": "add67e43b9a262b649f19dc57cb4cc3df10dd4be"
+  },
+  "assignments/25春作业/制图-第二次作业.pdf": {
+    "size": 2356138,
+    "time": 1751009327,
+    "hash": "add67e43b9a262b649f19dc57cb4cc3df10dd4be"
+  },
+  "assignments/论文/2021-课程论文-吴俊达.doc": {
+    "size": 1210368,
+    "time": 1763981136,
+    "hash": "2f67cf9122d62e587691c2673c8d7fc792107287"
+  },
+  "assignments/论文/2022-课程论文-psp.docx": {
+    "size": 468389,
+    "time": 1763981136,
+    "hash": "2f67cf9122d62e587691c2673c8d7fc792107287"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1737468639,
+    "hash": "63c3ad42335085d6f7011bf0d436aacb0d363168"
+  },
+  "exams/2021哈工大（深圳）自动化专业导论试题A.pdf": {
+    "size": 208382,
+    "time": 1702044196,
+    "hash": "930e21db23cdd37d2bdc260e67ca403bdaf58282"
+  },
+  "exams/2021哈工大（深圳）自动化专业导论试题A参考答案.docx": {
+    "size": 202209,
+    "time": 1763981136,
+    "hash": "2f67cf9122d62e587691c2673c8d7fc792107287"
+  },
+  "exams/2025春自动化认知与实践期末（回忆版）.pdf": {
+    "size": 292133,
+    "time": 1751009327,
+    "hash": "add67e43b9a262b649f19dc57cb4cc3df10dd4be"
+  },
+  "labs/2022SW-psp/22-psp-作业一.zip": {
+    "size": 1292303,
+    "time": 1737359973,
+    "hash": "3e2ebe1c2b1a83ef61259ff091c9a9e3b791a222"
+  },
+  "labs/2022SW-psp/22-psp-作业二.zip": {
+    "size": 2395392,
+    "time": 1737359973,
+    "hash": "3e2ebe1c2b1a83ef61259ff091c9a9e3b791a222"
+  },
+  "labs/2022SW-psp/22-psp-机械臂夹爪.zip": {
+    "size": 5058938,
+    "time": 1737359973,
+    "hash": "3e2ebe1c2b1a83ef61259ff091c9a9e3b791a222"
+  },
+  "materials/.gitkeep": {
+    "size": 0,
+    "time": 1737468639,
+    "hash": "63c3ad42335085d6f7011bf0d436aacb0d363168"
+  },
+  "materials/CSS_Control_for_Societal-scale_Challenges_Road_Map_2030.pdf": {
+    "size": 13028210,
+    "time": 1705073008,
+    "hash": "74908aaa85d3d036c9bf1c5018c76d55ef1a5ff1"
+  },
+  "materials/《社会尺度挑战下的控制：2030路线图》第二章翻译_by_Hye.pdf": {
+    "size": 1571724,
+    "time": 1705074404,
+    "hash": "d48a4324a657f14aa1428e8216a27460cb8c9943"
+  },
+  "materials/工程制图基础习题集答案.pdf": {
+    "size": 26251242,
+    "time": 1748338429,
+    "hash": "f0b41f1dec8726d2ed903f1caae2b7030ec26fee"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1737468639,
+    "hash": "63c3ad42335085d6f7011bf0d436aacb0d363168"
+  },
+  "notes/2022-psp-期末复习.pdf": {
+    "size": 868905,
+    "time": 1763981136,
+    "hash": "2f67cf9122d62e587691c2673c8d7fc792107287"
+  },
+  "notes/2022-psp-自动化认知与实践笔记.pdf": {
+    "size": 2862126,
+    "time": 1763981136,
+    "hash": "2f67cf9122d62e587691c2673c8d7fc792107287"
+  },
+  "notes/2025-Gaster-自动化认知与实践笔记.pdf": {
+    "size": 4370743,
+    "time": 1763981136,
+    "hash": "2f67cf9122d62e587691c2673c8d7fc792107287"
+  },
+  "readme.toml": {
+    "size": 13213,
+    "time": 1769800157,
+    "hash": "b70092e7c41870419c2b648dbbc8abd1ff339a51"
+  },
+  "tag.txt": {
+    "size": 77,
+    "time": 1718130302,
+    "hash": "bb6e60bc807bfad261ef5f2fc36cd24baed6d65d"
+  }
+}
