@@ -87,8 +87,10 @@ content = """
   - 自动控制系统的控制方式（前馈、反馈、串级、多回路）
 - 自动化专业的培养目标、课程体系、学术体系、发展前景（1 学时）
 """
-author = [{ name = "Gaster", link = "https://github.com/WDGaster703", date = "" },
-{ name = "Oliver Wu", link = "https://github.com/OliverWu515", date = "" }]
+author = [
+  { name = "Gaster", link = "https://github.com/WDGaster703", date = "" },
+  { name = "Oliver Wu", link = "https://github.com/OliverWu515", date = "" },
+]
 
 [[sections.items]]
 content = """
@@ -173,8 +175,10 @@ content = """
 - 报告 4：机器人小车巡线控制
   - 以设计流程框图的形式展现小车巡线设计思路，即如何寻找到跑道上的黑线；两个电机如何实现的同速控制；如何实现左、右转弯；调试中遇到的问题分析。
 """
-author = [{ name = "Gaster", link = "https://github.com/WDGaster703", date = "" },
-{ name = "Maxwell Jay", link = "https://github.com/MaxwellJay256", date = "" }]
+author = [
+  { name = "Gaster", link = "https://github.com/WDGaster703", date = "" },
+  { name = "Maxwell Jay", link = "https://github.com/MaxwellJay256", date = "" },
+]
 
 [[sections.items]]
 content = """
@@ -201,8 +205,10 @@ content = """
 - [Chenx Dust - AutoCar](https://github.com/chenxijun/AutoCar)
 - [psp_dada - AutoCar-AUTO1001](https://github.com/pspdada/AutoCar-AUTO1001)
 """
-author = [{ name = "Maxwell Jay", link = "https://github.com/MaxwellJay256", date = "" },
-{ name = "Gaster", link = "https://github.com/WDGaster703", date = "" }]
+author = [
+  { name = "Maxwell Jay", link = "https://github.com/MaxwellJay256", date = "" },
+  { name = "Gaster", link = "https://github.com/WDGaster703", date = "" },
+]
 
 [[sections.items]]
 content = """

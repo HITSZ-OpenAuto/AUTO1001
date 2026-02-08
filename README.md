@@ -1,52 +1,28 @@
-<!-- RDME_TOML_AUTOGEN_WARNING_START -->
-> [!WARNING]
-> TOML 自动化格式化/生成 README 失败：请检查 readme.toml，并查看 Actions 日志。
-<!-- RDME_TOML_AUTOGEN_WARNING_END -->
-
 # AUTO1001 - 自动化认知与实践
 
-<!--
-1. 通过 [Shields.io](https://shields.io/) 生成如下的徽章，标注课程的基本信息。尽情发挥你的颜色审美！
-2. 请根据课程的具体内容增删仓库的子文件夹。子文件夹建议使用小写英文，并且添加 README.md。
-3. 关于课程的描述可以不止以下几个方面，酌情增删。
-4. 当 hoa.moe 生成本课程对应页面后，请将页面链接复制到 GitHub 仓库的 About/Website 中。
-5. 可以在 GitHub 页面的 About/Topics 中为课程添加话题名称。
--->
-
-![Static Badge](https://img.shields.io/badge/考查课-green)
-![Static Badge](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-4-moccasin)
-
-![Static Badge](<https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90(2022级)-gold>)
-![Static Badge](https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A%E4%B8%8E%E8%AE%BA%E6%96%87-10%25-wheat)
-![Static Badge](https://img.shields.io/badge/%E8%AF%BE%E5%A0%82%E5%AE%9E%E9%AA%8C-30%25-wheat)
-![Static Badge](https://img.shields.io/badge/%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%80%83%E6%A0%B8-30%25-wheat)
-![Static Badge](https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-30%25-wheat)
-
-![Static Badge](https://img.shields.io/badge/总学时-64-gold)
-![Static Badge](https://img.shields.io/badge/讲课学时-40-wheat)
-![Static Badge](https://img.shields.io/badge/实验学时-24-wheat)
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&color=F71717&center=true&multiline=true&repeat=false&random=false&width=435&height=100&lines=%E6%AC%A2+%E8%BF%8E+%E6%9D%A5+%E5%88%B0;AUTO1001;自 动 化 认 知 与 实 践" alt="Typing SVG: Welcome"/>
-  </a>
-</div>
+![成绩构成](https://img.shields.io/badge/成绩构成-gold)
+![作业10%](https://img.shields.io/badge/作业-10%25-wheat)
+![课堂实验30%](https://img.shields.io/badge/课堂实验-30%25-wheat)
+![机器人考核30%](https://img.shields.io/badge/机器人考核-30%25-wheat)
+![期末考试30%](https://img.shields.io/badge/期末考试-30%25-wheat)
 
 本课程开设自 2022 年，合并了过去工程制图基础、自动化专业导论、机器人设计与实践、机械设计基础 4 门课程。
+所以课程内容（自动化专业导论、工程制图、机器人设计与实践）分别由不同的老师先后负责讲授。
 
 ## 授课教师
 
-自动化专业导论、工程制图、机器人设计与实践部分分别由不同的老师先后负责讲授。
-
-- 自动化专业导论：楼云江
-- 工程制图：袁晗、杨月
-- 机器人设计与实践：黄瑞宁、陈浩耀 / 熊昊、熊小刚
-- 实验课：葛亚明
+- 楼云江
+- 袁晗
+- 杨月
+- 黄瑞宁
+- 陈浩耀
+- 熊昊
+- 熊小刚
+- 葛亚明
 
 ## 关于考试
 
-2022 级自动化专业学生参与了这门课第一次考试，笔试内容主要来自课堂教学，例如电机驱动，电阻色环识别，Arduino 编程知识。
-考试难度对于从未接触过机器人或单片机的同学来说并不是很友好，而且主要考的都是死记硬背的东西，因此在学生间的评价很差。
+2022 级自动化专业学生参与了这门课第一次考试，笔试内容主要来自课堂教学，例如电机驱动，电阻色环识别，Arduino 编程知识。 考试难度对于从未接触过机器人或单片机的同学来说并不是很友好，而且主要考的都是死记硬背的东西，因此在学生间的评价很差。
 
 > 文 / [Maxwell Jay](https://github.com/MaxwellJay256)
 
@@ -56,11 +32,11 @@
 
 25 年，23 级的期末考试大背诵程度进一步加剧，全试卷只有一题计算自由度和计算沾边，剩下全是各种定义概念的大背诵，包括：工图某种视图的定义，机械原理中的定义，Arduino 编程，阿克曼驱动以及 H 桥驱动电路分析与设计，试卷部分考点很偏且答题量超大。试卷具体的大背诵内容参考仓库中的期末试卷回忆。
 
-> 文 / [Gaster](https://github.com/WDGaster703)，2025.6
+> 文 / [Gaster](https://github.com/WDGaster703)
 
 ## 课程简介
 
-### 关于导论部分
+### 关于导论
 
 > 此为 2021 级内容。新的导论部分对原来内容有了较大程度的裁剪，但是仍然建议有兴趣的同学仔细阅读有关“自动化基本原理”的内容，对自动控制系统的思想、构成、实现方式有个初步认识。
 > 课件放在校内网盘。
@@ -79,8 +55,6 @@
 - 现代自动化初览（科普）
 - 自动化专业培养目标、课程体系、学术体系、发展前景
 
-> 文 / [Oliver Wu](https://github.com/OliverWu515)
-
 > 删减后的导论部分授课内容如下。23 级由于和《系统与控制》同时授课，因此 Oliver Wu 所说的对自动控制系统的思想、构成、实现方式的认识可以交给专业课完成。
 
 - 自动化的概念和发展简史（3 学时）
@@ -90,7 +64,7 @@
   - 自动控制系统的控制方式（前馈、反馈、串级、多回路）
 - 自动化专业的培养目标、课程体系、学术体系、发展前景（1 学时）
 
-> 文 / [Gaster](https://github.com/WDGaster703)，2025.6
+> 文 / [Gaster](https://github.com/WDGaster703)，[Oliver Wu](https://github.com/OliverWu515)
 
 ### 关于工程制图和机械设计原理
 
@@ -108,7 +82,7 @@
 - 平面连杆结构，有曲柄条件，压力角，死点位置
 - 齿轮机构及渐开线齿轮相关计算
 
-> 文 / [Gaster](https://github.com/WDGaster703)，2025.6
+> 文 / [Gaster](https://github.com/WDGaster703)
 
 ### 关于机器人设计与实践的理论课
 
@@ -127,7 +101,7 @@
 
 > 文 / [Oliver Wu](https://github.com/OliverWu515)
 
-### 关于实验
+## 关于实验
 
 > 以下内容仅代表 2022 级的情况。2022 级的自动化认识与实践被安排在大一上学期，并且是考试课。
 
@@ -140,8 +114,6 @@
 如果是用到 Arduino 的实验，建议在上课前提前准备好程序，现场敲代码会比较浪费时间。实验虽然会发实验代码，但不建议直接照抄，理解代码会对后期小车代码的编写调试大有裨益。
 
 实验的打分由老师或者助教完成，就是看实际的运行效果，要求并不非常严格。完成实验课上的附加题可获得额外加分。
-
-> 文 / [Maxwell Jay](https://github.com/MaxwellJay256)
 
 {{% details title="实验内容和打分标准" closed="true" %}}
 | 实验项目 | 分值说明 | 满分 |学时 |
@@ -170,7 +142,7 @@
 - 报告 4：机器人小车巡线控制
   - 以设计流程框图的形式展现小车巡线设计思路，即如何寻找到跑道上的黑线；两个电机如何实现的同速控制；如何实现左、右转弯；调试中遇到的问题分析。
 
-> 文 / [Gaster](https://github.com/WDGaster703)，2025.6
+> 文 / [Gaster](https://github.com/WDGaster703)，[Maxwell Jay](https://github.com/MaxwellJay256)
 
 #### 后期
 
@@ -195,13 +167,13 @@
 - [Chenx Dust - AutoCar](https://github.com/chenxijun/AutoCar)
 - [psp_dada - AutoCar-AUTO1001](https://github.com/pspdada/AutoCar-AUTO1001)
 
-> 文 / [Maxwell Jay](https://github.com/MaxwellJay256)
+> 文 / [Maxwell Jay](https://github.com/MaxwellJay256)，[Gaster](https://github.com/WDGaster703)
 
 希望同学们认真完成实验，体会由物理系统——数学模型——物理实现的路径（如，针对物理系统的特性，设计 PID 控制律，再结合传感器将物理信号转换成电信号，利用单片机实现数字式的增量式 PID 控制算法），巩固 C 语言编程的知识。
 
 希望同学们在实验过程中养成良好的习惯，爱护实验器材，维护好实验室的环境。
 
-> 文 / [Oliver Wu](https://github.com/OliverWu515)
+> 文 / [Maxwell Jay](https://github.com/MaxwellJay256)
 
 虽然部分自动化的学生对实验部分怨声载道，但从无到有搭建出一个寻迹小车确实能很大程度地提高学生的动手能力，特别是对于高中没有什么动手实践机会的同学来说，一进入大学就有这么 **重 量 级** 的实验确实是积累实践经验、提升实践技能的机会（但 23 级把这门课放在了大二下学期，就不好说了）
 
@@ -217,4 +189,4 @@
 
 个人项目代码仓库参考：[Gaster - Harmony](https://github.com/WDGaster703/Harmony)
 
-> 文 / [Gaster](https://github.com/WDGaster703)，2025.6
+> 文 / [Gaster](https://github.com/WDGaster703)
