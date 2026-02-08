@@ -108,7 +108,7 @@ content = """
 - 平面连杆结构，有曲柄条件，压力角，死点位置
 - 齿轮机构及渐开线齿轮相关计算
 """
-author = { name = "Gaster", link = "https://github.com/WDGaster703", date = "" },
+author = { name = "Gaster", link = "https://github.com/WDGaster703", date = "" }
 
 [[sections.items]]
 content = """
