@@ -1,57 +1,50 @@
 course_name = "自动化认知与实践"
-repo_type = "normal"
 course_code = "AUTO1001"
+repo_type = "normal"
 description = """
 本课程开设自 2022 年，合并了过去工程制图基础、自动化专业导论、机器人设计与实践、机械设计基础 4 门课程。
 所以课程内容（自动化专业导论、工程制图、机器人设计与实践）分别由不同的老师先后负责讲授。
 """
 
-[[lecturers]]
+[lecturers]
+
+[[lecturers.items]]
 name = "楼云江"
 
-[[lecturers]]
+[[lecturers.items]]
 name = "袁晗"
 
-[[lecturers]]
+[[lecturers.items]]
 name = "杨月"
 
-[[lecturers]]
+[[lecturers.items]]
 name = "黄瑞宁"
 
-[[lecturers]]
+[[lecturers.items]]
 name = "陈浩耀"
 
-[[lecturers]]
+[[lecturers.items]]
 name = "熊昊"
 
-[[lecturers]]
+[[lecturers.items]]
 name = "熊小刚"
 
-[[lecturers]]
+[[lecturers.items]]
 name = "葛亚明"
-
-[[sections]]
-title = "教材"
 
 [[sections]]
 title = "关于考试"
 
 [[sections.items]]
-content = """
-2022 级自动化专业学生参与了这门课第一次考试，笔试内容主要来自课堂教学，例如电机驱动，电阻色环识别，Arduino 编程知识。 考试难度对于从未接触过机器人或单片机的同学来说并不是很友好，而且主要考的都是死记硬背的东西，因此在学生间的评价很差。
-"""
+content = "2022 级自动化专业学生参与了这门课第一次考试，笔试内容主要来自课堂教学，例如电机驱动，电阻色环识别，Arduino 编程知识。 考试难度对于从未接触过机器人或单片机的同学来说并不是很友好，而且主要考的都是死记硬背的东西，因此在学生间的评价很差。"
 author = { name = "Maxwell Jay", link = "https://github.com/MaxwellJay256", date = "" }
 
 [[sections.items]]
-content = """
-22 年，这门课的考试主要是大背诵，包括色环电阻识别（阻值和误差的填空）；手绘整个 H 桥电机驱动电路；机械设计部分没考；而工程制图部分由于课时被压缩，考试仅出了很简单的填空题以及画图题，无需掌握复杂的画图技巧。
-"""
+content = "22 年，这门课的考试主要是大背诵，包括色环电阻识别（阻值和误差的填空）；手绘整个 H 桥电机驱动电路；机械设计部分没考；而工程制图部分由于课时被压缩，考试仅出了很简单的填空题以及画图题，无需掌握复杂的画图技巧。"
 author = { name = "psp_dada", link = "https://github.com/pspdada", date = "" }
 
 [[sections.items]]
-content = """
-25 年，23 级的期末考试大背诵程度进一步加剧，全试卷只有一题计算自由度和计算沾边，剩下全是各种定义概念的大背诵，包括：工图某种视图的定义，机械原理中的定义，Arduino 编程，阿克曼驱动以及 H 桥驱动电路分析与设计，试卷部分考点很偏且答题量超大。试卷具体的大背诵内容参考仓库中的期末试卷回忆。
-"""
+content = "25 年，23 级的期末考试大背诵程度进一步加剧，全试卷只有一题计算自由度和计算沾边，剩下全是各种定义概念的大背诵，包括：工图某种视图的定义，机械原理中的定义，Arduino 编程，阿克曼驱动以及 H 桥驱动电路分析与设计，试卷部分考点很偏且答题量超大。试卷具体的大背诵内容参考仓库中的期末试卷回忆。"
 author = { name = "Gaster", link = "https://github.com/WDGaster703", date = "" }
 
 [[sections]]
