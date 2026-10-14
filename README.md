@@ -1,12 +1,5 @@
 # AUTO1001 - 自动化认知与实践
 <!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![作业10%](https://img.shields.io/badge/作业-10%25-wheat)
-![课堂实验30%](https://img.shields.io/badge/课堂实验-30%25-wheat)
-![机器人考核30%](https://img.shields.io/badge/机器人考核-30%25-wheat)
-![期末考试30%](https://img.shields.io/badge/期末考试-30%25-wheat)
 
 本课程开设自 2022 年，合并了过去工程制图基础、自动化专业导论、机器人设计与实践、机械设计基础 4 门课程。
 所以课程内容（自动化专业导论、工程制图、机器人设计与实践）分别由不同的老师先后负责讲授。
